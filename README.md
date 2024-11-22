@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Paweł and I am a Web Developer
+## Hi there 👋, my name is Paweł and I am a Frontend React Developer
 I am interested in front-end technologies ⬇
 <p align="left">My stack:</p>
 <p align="left">
