@@ -5,7 +5,6 @@ I am interested in front-end technologies ⬇
     <img src="https://skillicons.dev/icons?i=js,html,css,react,typescript,git" />
 </p>
 
-* I recommend checking out my latest project: ♟Chess Academy :arrow_right:  [Code](https://github.com/sinet77/Chess_Academy) | [Demo](https://sinet77.github.io/Chess_Academy/)
-
-  
+* <b>I recommend checking out my latest project:</b> ♟Chess Academy :arrow_right:  [Code](https://github.com/sinet77/Chess_Academy) | [Demo](https://sinet77.github.io/Chess_Academy/)
+ 
 * You can reach me by email: 📩 pawelkozlowski16@gmail.com
